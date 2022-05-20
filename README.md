@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A modified version of the NREL's Synthetic Building project, fit to our needs. 
+A modified version of the NREL's Synthetic Building project. 
 This script generates the dataset using OpenStudio's Ruby API and OpenStudio-Standards NREL Prototype buildings
 
 
